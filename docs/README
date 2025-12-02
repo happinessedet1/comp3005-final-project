@@ -3,21 +3,21 @@
 # Name: Happiness Edet  
 # Student id: 101241353
 
-This project implements a small Gym Management System using:
+# This project implements a small Gym Management System using:
 
 - PostgreSQL
 - SQL scripts for schema & sample data
-- A Python CLI application using `psycopg2`
+- A Python CLI application using psycopg2
 
-It satisfies the solo-student requirements:
-- ≥ 6 entities (15+ tables)
-- ≥ 5 relationships
-- ≥ 8 application operations
-- ≥ 1 VIEW
-- ≥ 1 TRIGGER
-- ≥ 1 INDEX
+This project satisfies the solo-student requirements:
+- entities (15+ tables)
+- relationships
+- application operations
+- VIEW
+- TRIGGER
+- INDEX
 
-how to run 
+# How to run 
 in folder terminal - python3 app/app.py
 
 # Folder Structure
