@@ -1,0 +1,40 @@
+# COMP 3005 Final Project – Gym Management System (Solo)
+
+# Name: Happiness Edet  
+# Student id: 101241353
+
+This project implements a small Gym Management System using:
+
+- PostgreSQL
+- SQL scripts for schema & sample data
+- A Python CLI application using `psycopg2`
+
+It satisfies the solo-student requirements:
+
+- ≥ 6 entities (15+ tables)
+- ≥ 5 relationships
+- ≥ 8 application operations
+- ≥ 1 VIEW
+- ≥ 1 TRIGGER
+- ≥ 1 INDEX
+
+---
+
+## 1. Folder Structure
+
+```text
+3005_final_project_
+│
+├── sql/
+│   ├── DDL.sql        # All CREATE TABLEs, view, indexes, trigger
+│   └── DML.sql        # Sample data inserts
+│
+├── app/
+│   └── app.py         # Python CLI application
+│
+└── docs/
+    ├── ER DIAGRAM.*   # (High-level ERD)
+    └── README.md      # This file
+
+Youtube video link
+https://youtu.be/Brwelg95WKY
