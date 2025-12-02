@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
-Simple CLI app for the Gym Management DB project.
+Simple CLI (command line interface) app for the Gym Management DB project.
 
 Roles:
 - Member
 - Trainer
 - Admin
 
-Assumes the database is already created and DDL.sql + DML.sql have been run.
 """
 
 import psycopg2
